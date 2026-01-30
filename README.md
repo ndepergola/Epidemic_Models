@@ -1,6 +1,8 @@
 # Epidemic_Models
 Creating and analyzing an epidemic in a grid-like city.
 
+NOTE: This project was completed for a class. Mind the casual writing in the final report (my professor gave extra credit if we could make him laugh)
+
 FILE LIBRARY:
 
 simple_epidemic_city: (ipynb) Small grid city with obstacles. People move randomly and contract illness and recover from illness at random rates. Output shows each step in time in the city. 
@@ -10,3 +12,5 @@ anim_epidemic_city: (ipynb) Larger city with more people and more obstacles, ran
 anim: gif animation produced by anim_epidemic_city.
 
 500trials_epidemic_city: (ipynb) The number of sick people after 80 steps is stored for 500 city models. Output is a histogram.
+
+DiscretePops_report: (pdf) Final writeup of project.
